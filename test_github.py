@@ -1,6 +1,7 @@
 __author__ = 'Helena'
 
 def exp(f):
-    return 3
+    """test bordel"""
+    return 'truc qui marche jamais u_u'
 
 
